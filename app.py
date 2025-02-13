@@ -6,7 +6,7 @@ from model import RecipeModel
 recipe_model = RecipeModel()
 
 # Streamlit UI
-st.title("Recipe Chatbot 🍽️")
+st.title("FOODIE BOT 😋🍽️")
 st.write("Provide ingredients, and I'll suggest dishes and recipes!")
 
 # Memory Display
