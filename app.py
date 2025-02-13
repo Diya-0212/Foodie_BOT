@@ -50,9 +50,4 @@ if "history" in st.session_state:
         st.write("### Updated Recipe:")
         st.write(modified_recipe)
 
-# Show Chat History
-st.write("### Chat History:")
-for chat in st.session_state["history"]:
-    st.write(f"**User:** {chat['User']}")
-    st.write(f"**Bot:** {chat['Bot']}")
 
