@@ -1,5 +1,5 @@
 python-dotenv
-langchain
+langchain==0.1.11
 langchain_groq
 langchain_community
 langchain_core
